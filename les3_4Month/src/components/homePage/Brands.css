@@ -1,0 +1,46 @@
+.imgHome{
+    position: absolute;
+}
+
+.text{
+    color: black;
+    position: absolute;
+    width: 577px;
+height: 173px;
+top: 237px;
+left: 100px;
+gap: 0px;
+opacity: 0px;
+
+
+
+
+}
+/* 
+.brands{
+    position: absolute;
+} */
+.p{
+    width: 545px;
+    height: 33px;
+    top: 442px;
+    left: 100px;
+    gap: 0px;
+    opacity: 0px;
+    
+}
+
+.brands-btn{
+    width: Fixed (210px)px;
+    height: Fixed (52px)px;
+    top: 507px;
+    left: 100px;
+    padding: 16px 54px 16px 54px;
+    gap: 12px;
+    border-radius: 62px 0px 0px 0px;
+    opacity: 0px;
+    position: absolute;
+    background: #000000;
+
+    
+}
